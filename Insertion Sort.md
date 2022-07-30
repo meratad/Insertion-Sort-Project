@@ -31,7 +31,7 @@
 
 4) After sorting the array, write the case type of the number "18".
 
-    Avarage case
+    It is in the middle, so I am going with Middle/Avarage case though I can't find a source on how to define the cases of individual elements in an array.
 
 5) Write the first 4 steps of the following array by Insertion Sort [7,3,5,8,2,9,4,15,6].
 
