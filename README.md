@@ -1,7 +1,7 @@
 # Insertion-Sort-Project
 Insertion Sort Project for patika.dev
 
-This project is created to pass a class at [app.patika.dev](www.patika.dev)
+This project is created to pass a class at [patika.dev](www.app.patika.dev)
 
 #### Purpose of this project is to show our understanding of "Insertion Sort" by completing the following tasks:
   
