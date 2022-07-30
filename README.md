@@ -13,11 +13,11 @@ This project is created to pass a class at [patika.dev](www.patika.dev)
   
   3) Time Complexity: 
     
-      3.1) Average case: Aradığımız sayının ortada olması,
+      3.1) Average case:
       
-      3.2) Worst case: Aradığımız sayının sonda olması, 
+      3.2) Worst case:
       
-      3.3) Best case: Aradığımız sayının dizinin en başında olması.
+      3.3) Best case:
   
   4) After sorting the array, write the case type of the number "18".
   
